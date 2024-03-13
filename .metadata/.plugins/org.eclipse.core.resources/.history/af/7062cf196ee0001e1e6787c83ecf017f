@@ -1,0 +1,11 @@
+package com.app.pravin.chartservice.bean;
+
+import lombok.Data;
+
+@Data
+public class CartInfo 
+{
+	private String id;
+	private Double amt;
+	
+}

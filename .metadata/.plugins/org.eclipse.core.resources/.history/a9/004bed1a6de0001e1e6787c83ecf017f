@@ -1,0 +1,5 @@
+package com.app.pravin.chartservice.bean;
+
+public class CartInfo {
+
+}

@@ -1,0 +1,5 @@
+BranchProjectTracker__D\:\\MyProjectsSB\\Microservices\\SpringCloudChartService\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects>\r\n<project>/</project>\r\n</projects>
+BranchProjectTracker__D\:\\MyProjectsSB\\Microservices\\SpringCloudVendorService\\.git_92d44496071c1b47172d04a649c243bedfba0dd4=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects>\r\n<project>/</project>\r\n</projects>
+BranchProjectTracker__D\:\\MyProjectsSB\\Microservices\\SpringCloudVendorService\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects>\r\n<project>/</project>\r\n</projects>
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>Adding cartinfo backend call</message>\r\n<message>Adding consumer call to CartInfo api usinf FeignClient</message>\r\n<message>Adding new api for RequestEntity CartInfo</message>\r\n<message>Adding service and controller for rest template</message>\r\n<message>Vendor service and controller added</message>\r\n<message>Initial commit</message>\r\n</messages>
+eclipse.preferences.version=1

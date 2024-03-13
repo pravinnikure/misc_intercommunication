@@ -1,0 +1,9 @@
+
+server.port=9092
+
+spring.application.name=CART-SERVICE
+
+
+#IP, PORT,LOAD FACTOR --> auto detect
+eureka.client.fetch-registry=true
+eureka.client.register-with-eureka=true

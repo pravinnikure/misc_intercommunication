@@ -1,0 +1,5 @@
+package com.app.pravin.vendorservice.controller;
+
+public class VendorController {
+
+}
